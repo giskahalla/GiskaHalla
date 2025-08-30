@@ -27,7 +27,7 @@
 
   <p>
     <i>Checkout my website</i>
-    <a href="https://giska-portfolio.netlify.app/">
+    <a href="https://giskahalla.github.io/portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"  style="height:22px;">
     </a>
   </p>
