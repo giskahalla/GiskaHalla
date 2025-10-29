@@ -41,7 +41,7 @@
 
   <p>
     <i>Connect with me on </i>
-    <a href="https://www.linkedin.com/in/giska-halla-643253188">
+    <a href="https://www.linkedin.com/in/giskahalla/">
       LinkedIn
     </a>
   </p>  
